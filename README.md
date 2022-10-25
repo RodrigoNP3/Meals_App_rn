@@ -42,8 +42,8 @@ git clone https://github.com/RodrigoNP3/Meals_App_rn.git
   </a></td>
   
  <td align="center">
-  <a target="_blank" rel="" href="images/category_meals_screen.jpg">
-        <img src="images/category_meals_screen.jpg" alt="Css Logo" with="200" height="400"/>
+  <a target="_blank" rel="" href="images/category__meals_screen.jpg">
+        <img src="images/category__meals_screen.jpg" alt="Css Logo" with="200" height="400"/>
 
   </a></td>
 
@@ -59,7 +59,7 @@ git clone https://github.com/RodrigoNP3/Meals_App_rn.git
 <thead>
 <tr>
 <th align="center">Meal Details Screen</th>
-
+<th align="center">Favorites Screen</th>
 
 
 </tr>
@@ -74,3 +74,8 @@ git clone https://github.com/RodrigoNP3/Meals_App_rn.git
   </a></td>
 
   
+<td align="center">
+  <a target="_blank" rel="" href="images/favorites_screen.jpg">
+        <img src="images/favorites_screen.jpg" alt="Css Logo" with="400" height="175"/>
+
+  </a></td>
