@@ -69,13 +69,13 @@ git clone https://github.com/RodrigoNP3/Meals_App_rn.git
   
 <td align="center">
   <a target="_blank" rel="" href="images/meal_deatails_screen_1.jpg">
-        <img src="images/meal_deatails_screen_1.jpg" alt="Css Logo" with="400" height="175"/>
+        <img src="images/meal_deatails_screen_1.jpg" alt="Css Logo" with="400" height="400"/>
 
   </a></td>
 
   
 <td align="center">
   <a target="_blank" rel="" href="images/favorites_screen.jpg">
-        <img src="images/favorites_screen.jpg" alt="Css Logo" with="400" height="175"/>
+        <img src="images/favorites_screen.jpg" alt="Css Logo" with="400" height="400"/>
 
   </a></td>
