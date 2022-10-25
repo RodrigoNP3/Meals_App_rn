@@ -1,7 +1,7 @@
-# Mini guess game App
+# Meals App
 
 Hello there.
-This is a simple guess game App App developed in react native.
+This is a simple App developed in react native.
 This app was developed according to the classes of:
 
 React Native - The Practical Guide [2022];
@@ -10,7 +10,7 @@ React Native - The Practical Guide [2022];
 
 Clone it in your machine:
 ```bash
-git clone https://github.com/RodrigoNP3/Mini_game_app.git
+git clone https://github.com/RodrigoNP3/Meals_App_rn.git
 ```
 
 ### Navigation
@@ -20,8 +20,9 @@ git clone https://github.com/RodrigoNP3/Mini_game_app.git
 <thead>
 <tr>
 <th align="center">Main Screen</th>
-<th align="center">Game Screen</th>
-<th align="center">Game Over Screen</th>
+<th align="center">Drawer Screen</th>
+<th align="center">Category Meals Screen</th>
+<th align="center">Meal Details Screen</th>
 
 </tr>
 </thead>
@@ -35,14 +36,20 @@ git clone https://github.com/RodrigoNP3/Mini_game_app.git
   </a></td>
   
 <td align="center">
-  <a target="_blank" rel="" href="images/game_screen.jpg">
-        <img src="images/game_screen.jpg" alt="Css Logo" with="200" height="400"/>
+  <a target="_blank" rel="" href="images/drawer_screen.jpg">
+        <img src="images/drawer_screen.jpg" alt="Css Logo" with="200" height="400"/>
 
   </a></td>
   
  <td align="center">
-  <a target="_blank" rel="" href="images/game_over_screen.jpg">
-        <img src="images/game_over_screen.jpg" alt="Css Logo" with="200" height="400"/>
+  <a target="_blank" rel="" href="images/category_meals_screen.jpg">
+        <img src="images/category_meals_screen.jpg" alt="Css Logo" with="200" height="400"/>
+
+  </a></td>
+
+   <td align="center">
+  <a target="_blank" rel="" href="images/meal_deatails_screen.jpg">
+        <img src="images/meal_deatails_screen.jpg" alt="Css Logo" with="200" height="400"/>
 
   </a></td>
 
@@ -51,32 +58,9 @@ git clone https://github.com/RodrigoNP3/Mini_game_app.git
 <table>
 <thead>
 <tr>
-<th align="center">Main Screen</th>
-<th align="center">Game Screen</th>
+<th align="center">Meal Details Screen</th>
 
 
-</tr>
-</thead>
-<tbody>
-<tr>
-  
-<td align="center">
-  <a target="_blank" rel="" href="images/main_screen_2.jpg">
-        <img src="images/main_screen_2.jpg" alt="Css Logo" with="400" height="175"/>
-
-  </a></td>
-  
-<td align="center">
-  <a target="_blank" rel="" href="images/game_screen_2.jpg">
-        <img src="images/game_screen_2.jpg" alt="Css Logo" with="400" height="175"/>
-
-  </a></td>
-  
-
-<table>
-<thead>
-<tr>
-<th align="center">Game Over Screen</th>
 
 </tr>
 </thead>
@@ -84,8 +68,9 @@ git clone https://github.com/RodrigoNP3/Mini_game_app.git
 <tr>
   
 <td align="center">
-  <a target="_blank" rel="" href="images/game_over_screen_2.jpg">
-        <img src="images/game_over_screen_2.jpg" alt="Css Logo" with="400" height="175"/>
+  <a target="_blank" rel="" href="images/meal_deatails_screen_1.jpg">
+        <img src="images/meal_deatails_screen_1.jpg" alt="Css Logo" with="400" height="175"/>
 
   </a></td>
+
   
